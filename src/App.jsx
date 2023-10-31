@@ -1,9 +1,9 @@
-import ReactHook from "./Component/ReactHook";
+import UseRef from "./Component/UseRef";
 
 const App = () => {
   return (
     <div>
-      <ReactHook/>
+      <UseRef/>
     </div>
   );
 };

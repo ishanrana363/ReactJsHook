@@ -1,7 +1,9 @@
+import ReactHook from "./Component/ReactHook";
+
 const App = () => {
   return (
     <div>
-      <h1>hello ishan</h1>
+      <ReactHook/>
     </div>
   );
 };

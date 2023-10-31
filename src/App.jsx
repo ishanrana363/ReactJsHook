@@ -1,9 +1,11 @@
-import UseRef from "./Component/UseRef";
+// import UseRef from "./Component/UseRef";
+import Setattribute from './Component/Setattribute';
 
 const App = () => {
   return (
     <div>
-      <UseRef/>
+      {/* <UseRef/> */}
+      <Setattribute/>
     </div>
   );
 };
